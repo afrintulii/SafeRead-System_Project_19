@@ -31,9 +31,20 @@ The widespread availability of Bangla text content raises concerns over exposing
 
 # App All Pages
 
+![pic_8](pic_8.png)
+
 ![pic_9](pic_9.png)
 
 ![pic_10](pic_10.png)
+
+![pic_11](pic_11.png)
+
+![pic_12](pic_12.png)
+
+![pic_13](pic_13.png)
+
+
+
 
 
 
