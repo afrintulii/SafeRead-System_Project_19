@@ -27,7 +27,14 @@ The widespread availability of Bangla text content raises concerns over exposing
 ![Dataset Preparation Flow](pic_2.png)
 
 # Design Overview
-![pic_3](pic_3.png)
+![pic_7](pic_7.png)
+
+# App All Pages
+
+![pic_9](pic_9.png)
+
+![pic_10](pic_10.png)
+
 
 
 
