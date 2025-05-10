@@ -43,6 +43,24 @@ The widespread availability of Bangla text content raises concerns over exposing
 
 ![pic_13](pic_13.png)
 
+## Attraction
+-Have created a dataset with my project partner. -Have a political ,religious and Abusive words dictnary. -has the ability to classify contents. -Can extarct text from bangla pdf.
+
+## Technologies
+- Python
+- Streamlit
+- Bangla NLP text preprocessing tools.
+
+ ## Installation
+ 1. Clone the repository: 
+ 2. Open the project in colab.
+ 3. Load the datasets and you are good to go.
+
+ ## Usage
+ 1. Launch the application.
+ 2. Navigate through the user interface to access various features.
+    
+
 
 
 
