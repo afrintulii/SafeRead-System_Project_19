@@ -8,3 +8,19 @@ The widespread availability of Bangla text content raises concerns over exposing
 -  Religious
 -  Political
 -  Abusive
+
+ The system then recommends whether the content is suitable for all ages, specific age groups, or adults only.
+
+## Features
+
+-  Keyword-based classification using unigram, bigram, and trigram matching.
+-  Recommender logic based on abusive and political keyword frequency.
+-  User-friendly **Streamlit** web interface.
+-  Efficient Bangla PDF-to-text conversion using `pdf2image` + OCR threading.
+-  Built-in dataset and private abusive dictionary.
+
+##  System Workflow
+
+## Dataset Preparation
+
+
