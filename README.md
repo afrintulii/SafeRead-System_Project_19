@@ -52,13 +52,19 @@ The widespread availability of Bangla text content raises concerns over exposing
 - Bangla NLP text preprocessing tools.
 
  ## Installation
- 1. Clone the repository: 
+ 1. Clone the repository: https://github.com/afrintulii/SafeRead-System_Project_19.git
  2. Open the project in colab.
  3. Load the datasets and you are good to go.
 
  ## Usage
  1. Launch the application.
  2. Navigate through the user interface to access various features.
+
+## Future Improvements
+1. Expand dataset and include sentence-level context.
+2. Use embedding techniques (TF-IDF, Word2Vec).
+3. Improve stemmer for Bangla language.
+4. Integrate LSTM or Transformer-based models for context-aware classification
     
 
 
