@@ -8,7 +8,8 @@ The widespread availability of Bangla text content raises concerns over exposing
 -  Religious
 -  Political
 -  Abusive
-![Project_overview](pic_1.png)
+  
+ ![Project_overview](pic_1.png)
 
  The system then recommends whether the content is suitable for all ages, specific age groups, or adults only.
 
